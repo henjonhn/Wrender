@@ -1,4 +1,4 @@
-# Render [![GoDoc](http://godoc.org/github.com/unrolled/render?status.svg)](http://godoc.org/github.com/unrolled/render) [![Test](https://github.com/unrolled/render/workflows/Test/badge.svg?branch=v1)](https://github.com/unrolled/render/actions)
+# Render [![GoDoc](http://godoc.org/github.com/unrolled/render?status.svg)](http://godoc.org/github.com/unrolled/render) [![Test](https://github.com/unrolled/render/workflows/Test/badge.svg?branch=v1)](https://github.com/unrolled/render/actions)1
 
 
 Render is a package that provides functionality for easily rendering JSON, XML, text, binary data, and HTML templates.
